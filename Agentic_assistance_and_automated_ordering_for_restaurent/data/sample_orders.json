@@ -1,0 +1,24 @@
+[
+  {
+    "order_id": 1001,
+    "customer_id": "CUST001",
+    "items": [
+      {"menu_id": 1, "modifiers": ["No Cheese"]}
+    ],
+    "channel": "kiosk",
+    "language": "en",
+    "dietary": ["Vegetarian"],
+    "timestamp": "2025-07-16T12:00:00Z"
+  },
+  {
+    "order_id": 1002,
+    "customer_id": "CUST002",
+    "items": [
+      {"menu_id": 2, "modifiers": ["No Mayo"]}
+    ],
+    "channel": "phone",
+    "language": "es",
+    "dietary": [],
+    "timestamp": "2025-07-16T12:05:00Z"
+  }
+]

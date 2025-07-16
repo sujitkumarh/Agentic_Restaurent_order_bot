@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Veggie Burger Combo",
+      "items": ["Veggie Burger", "Fries", "Soft Drink"],
+      "modifiers": ["No Cheese", "Extra Lettuce"],
+      "allergens": ["Gluten"],
+      "dietary": ["Vegetarian"],
+      "price": 8.99,
+      "promotion": "10% off Mondays"
+    },
+    {
+      "id": 2,
+      "name": "Chicken Wrap",
+      "items": ["Chicken Wrap"],
+      "modifiers": ["No Mayo", "Extra Chicken"],
+      "allergens": ["Eggs", "Gluten"],
+      "dietary": [],
+      "price": 6.49,
+      "promotion": null
+    },
+    {
+      "id": 3,
+      "name": "Gluten-Free Salad",
+      "items": ["Salad", "Vinaigrette"],
+      "modifiers": ["No Dressing", "Extra Avocado"],
+      "allergens": [],
+      "dietary": ["Gluten-Free", "Vegan"],
+      "price": 7.99,
+      "promotion": "Free Drink with Salad"
+    }
+  ]
+}
